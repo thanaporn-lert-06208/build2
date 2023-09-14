@@ -1,0 +1,37 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="MaterialHouseViewer2D.CategoryData_SObj" preserve="all" />
+    <type fullname="MaterialHouseViewer2D.HouseData_SObj" preserve="all" />
+    <type fullname="MaterialHouseViewer2D.HouseViewsData_SObj" preserve="all" />
+    <type fullname="MaterialHouseViewer2D.StagesData_SObj" preserve="all" />
+    <type fullname="CustomCodeHelper.Image.ImageData" preserve="nothing" serialized="true" />
+    <type fullname="MaterialHouseViewer2D.CategoryData" preserve="nothing" serialized="true" />
+    <type fullname="MaterialHouseViewer2D.HouseData" preserve="nothing" serialized="true" />
+    <type fullname="MaterialHouseViewer2D.HouseViewsData" preserve="nothing" serialized="true" />
+    <type fullname="MaterialHouseViewer2D.PatternData" preserve="nothing" serialized="true" />
+    <type fullname="MaterialHouseViewer2D.SpriteView" preserve="nothing" serialized="true" />
+    <type fullname="MaterialHouseViewer2D.StageData" preserve="nothing" serialized="true" />
+    <type fullname="MaterialHouseViewer2D.StageLayerSet" preserve="nothing" serialized="true" />
+    <type fullname="MaterialHouseViewer2D.SubPatternData" preserve="nothing" serialized="true" />
+    <type fullname="MaterialHouseViewer2D.ViewData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceSprite" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceT`1[MaterialHouseViewer2D.CategoryData_SObj]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceT`1[MaterialHouseViewer2D.HouseViewsData_SObj]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceT`1[MaterialHouseViewer2D.StagesData_SObj]" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+  </assembly>
+</linker>
